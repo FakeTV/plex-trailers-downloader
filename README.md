@@ -1,9 +1,8 @@
-# Plex-Preroll-Trailers
-Simple and rough set of python script that download trailers for the upcoming/now playing movies in theaters
-and show it as a preroll video before watch movies in Plex.
+# Plex-Trailers-Downloader
+A set of scripts to automatically download new movie trailers and other videos, and add them to your Plex library
 
 ## Why
-For having a theaters-like experience when watching movies in Plex at home.
+For use in seeding Pseudo Channel with fresh commercials to be mixed in between scheduled programming
 
 ## Requirements
 The heart of the scripts is written in python, so they can work on all platform that have python installed. However there are 2 bash script for Linux/Ubuntu, but they are so simple that can be adapted for other OS.
